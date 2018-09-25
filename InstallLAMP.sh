@@ -1,4 +1,5 @@
 #!/bin/bash
+#jast for
 #install LAMP server and configure firewall
 apt-get install dialog sshpass openssh-server --yes;
 # open fd
